@@ -1,0 +1,3 @@
+boxTurb2D.C
+
+EXE = $(FOAM_USER_APPBIN)/boxTurb2D
